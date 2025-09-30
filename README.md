@@ -1,4 +1,4 @@
-# Welcome to your project
+# Welcome to ResuMate
 
 ## Project info
 
